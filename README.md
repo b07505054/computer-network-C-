@@ -15,7 +15,7 @@ After upload and download, you need to ensure the files are identical between so
 In this assignment, all the transmission should be implemented by the socket of TCP.
 ![image](https://user-images.githubusercontent.com/68935450/167395591-57a6cd5d-2a1e-461c-961f-d8a2cf278b69.png)
 ## HW3 (go-back-n with congestion control) (an extension homework of HW2)
-![image](https://user-images.githubusercontent.com/68935450/167397747-c4f2e63a-3964-465a-a528-d864b47c71fc.png)
-![image](https://user-images.githubusercontent.com/68935450/167397811-3f3f8039-8547-4a46-8b54-506231718a42.png)
-![image](https://user-images.githubusercontent.com/68935450/167397913-8a530f99-efa1-45e3-8a5b-dfe2ee9742ad.png)
+![image](https://user-images.githubusercontent.com/68935450/167398135-7dbb2080-72c1-4614-a8c3-ce7e7dcfd843.png)  
+![image](https://user-images.githubusercontent.com/68935450/167398206-898b023c-221e-4155-9f14-ae36b9fb772f.png)  
+![image](https://user-images.githubusercontent.com/68935450/167397913-8a530f99-efa1-45e3-8a5b-dfe2ee9742ad.png)  
 ![image](https://user-images.githubusercontent.com/68935450/167398001-ec16a7cb-0266-49ea-b846-e98ea24a9795.png)
