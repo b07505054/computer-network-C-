@@ -18,4 +18,11 @@ In this assignment, all the transmission should be implemented by the socket of 
 ![image](https://user-images.githubusercontent.com/68935450/167398135-7dbb2080-72c1-4614-a8c3-ce7e7dcfd843.png)  
 ![image](https://user-images.githubusercontent.com/68935450/167398206-898b023c-221e-4155-9f14-ae36b9fb772f.png)  
 ![image](https://user-images.githubusercontent.com/68935450/167397913-8a530f99-efa1-45e3-8a5b-dfe2ee9742ad.png)  
-![image](https://user-images.githubusercontent.com/68935450/167398001-ec16a7cb-0266-49ea-b846-e98ea24a9795.png)
+![image](https://user-images.githubusercontent.com/68935450/167398001-ec16a7cb-0266-49ea-b846-e98ea24a9795.png)  
+what I achive :   
+1. Extract video into frames
+2. Send frames with go-back-n and congestion control while agent.c is setted sometimes loss  
+3. Correctly sends files (ex. .png , .txt ...)
+what I need to advance :  
+1. Recontract frames into video and playing well
+2. buffer of client still needs to go 
