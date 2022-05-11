@@ -22,7 +22,8 @@ In this assignment, all the transmission should be implemented by the socket of 
 what I achive :   
 1. Extract video into frames
 2. Send frames with go-back-n and congestion control while agent.c is setted sometimes loss  
-3. Correctly sends files (ex. .png , .txt ...)
+3. Correctly sends files (ex. .png , .txt ...)  
+  
 what I need to advance :  
 1. Recontract frames into video and playing well
 2. buffer of client still needs to go 
